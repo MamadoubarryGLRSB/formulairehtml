@@ -1,0 +1,21 @@
+.forme{
+    background-color: blue;
+    color: white;
+}   
+.color{
+    background-color: rgb(206, 206, 206);
+}
+td{
+    border :1px; 
+    height: 50px;
+    width: 70px;
+    
+}       
+
+table{
+    border-collapse: separate;
+   text-align: center;
+}
+.color2{
+    background-color: ghostwhite;
+}

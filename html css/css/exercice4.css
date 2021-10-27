@@ -1,0 +1,36 @@
+body{
+    justify-content: center;
+}
+.Inscription{
+    border: solid;
+    border-color:blue;
+    background-color: blue;
+    height: 50px;
+    width:396px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    color: white;
+    font-family: Arial;
+}
+.form{
+    height: 150px;
+    width: 40px;
+}
+input{
+    height: 30px;
+
+}
+.bouton{
+     margin-left: 250px;
+     background-color: blue;
+     color: white;
+     height: 30px;
+     width:100px;
+
+}
+.space{
+    margin-left: 60px;
+     
+}
